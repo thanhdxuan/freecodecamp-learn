@@ -1,1 +1,1 @@
-![](../images/quiz.jpg')
+![](../images/quiz.jpg)
